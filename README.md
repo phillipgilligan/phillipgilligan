@@ -7,7 +7,7 @@
 - ⭐ Always learning new and better ways to automate things
 
 ### Connect with me:
-- 🔗 [linkedin]
+- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/LinkedIn.svg" /> [linkedin]
 
 <br />
 
