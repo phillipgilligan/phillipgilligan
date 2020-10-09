@@ -1,10 +1,10 @@
 ## Hi there, I'm Phillip Gilligan!
 
 ### I'm a passionate professional that's always learning!
-- ⭐ I'm currently working on a Terraform course
-- ⭐ Learning to be a better GUI developer in C#
-- ⭐ Perfecting my Python skills
-- ⭐ Always learning new and better ways to automate things
+- ⭐ Systems Engineer
+- ⭐ Cloud Engineer
+- ⭐ Infrastructure Engineer
+- ⭐ DevOps Engineer
 
 <br />
 
