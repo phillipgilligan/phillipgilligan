@@ -1,10 +1,10 @@
 ## Hi there, I'm Phillip Gilligan!
 
 ### I'm a passionate professional that's always learning!
-- ⭐ Systems Engineer
-- ⭐ Cloud Engineer
-- ⭐ Infrastructure Engineer
-- ⭐ DevOps Engineer
+- ⭐ Systems Engineer ⭐
+- ⭐ Cloud Engineer ⭐
+- ⭐ Infrastructure Engineer ⭐
+- ⭐ DevOps Engineer ⭐
 
 <br />
 
